@@ -1,5 +1,14 @@
-# Retky
-*J Luis Arredondo A.*
+# Hello! 🦊 I'm Retky
+*J. Luis Arredondo A.*
+
+---
+
+## Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=retky&count_private=true&theme=slateorange&show_icons=true)]()
+
+[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=retky&count_private=true&theme=slateorange)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=retky&langs_count=8&count_private=true&layout=compact&theme=slateorange)]()
 
 ## 🔗 Contact
 - GitHub: [@Retky](https://github.com/Retky "J. Luis Arredondo GitHub")

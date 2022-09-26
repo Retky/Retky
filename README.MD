@@ -3,10 +3,9 @@
 
 ## 📜 About Me 
 
-- 💻 Full-Stack Developer.
-- 💼 3D Designer & videogame developer.
-- 🎓 Degree in Architecture.
-- 🌱 Learning Java
+- 💻 Full-Stack Developer, 3D Designer & videogame developer
+- 🎓 Degree in Architecture
+- 🌱 Learning Java, C#, C++
 
 ## ⭐ Stats 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=retky&count_private=true&theme=slateorange&show_icons=true)]()

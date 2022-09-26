@@ -7,12 +7,6 @@
 - 🎓 Degree in Architecture
 - 🌱 Learning Java, C#, C++
 
-## ⭐ Stats 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=retky&count_private=true&theme=slateorange&show_icons=true)]()
-[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=retky&count_private=true&theme=slateorange)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=retky&langs_count=8&count_private=true&layout=compact&theme=slateorange)]()
-
 ## 🧰 Languages & Tools 
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
@@ -39,6 +33,12 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
+## ⭐ Stats 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=retky&count_private=true&theme=slateorange&show_icons=true)]()
+[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=retky&count_private=true&theme=slateorange)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=retky&langs_count=8&count_private=true&layout=compact&theme=slateorange)]()
+
 ## Contact 🔗
 <p align="left">
 <a href="https://twitter.com/retkyfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retkyfox" height="30" width="40" /></a>
@@ -49,4 +49,4 @@
 
 ---
 
-[![Visitors Count](https://komarev.com/ghpvc/?username=retky&label=Profile%20views&color=f58200&style=flat)]()
+:octocat: [![Visitors Count](https://komarev.com/ghpvc/?username=retky&label=Profile%20views&color=f58200&style=flat)]()

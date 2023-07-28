@@ -6,7 +6,7 @@
 - 🎓 Degree in Architecture
 - 💼 Experience in Web development, BIM, 3D Modeling, and video game assets creation
 - 💚 Love solving challenges and learning new things everyday
-- 🌱 Now learning C#, C++, Java and Node.js
+- 🌱 Now learning .NET, C++, Java
 
 ## 🧰 Tech Stack
 
@@ -25,6 +25,7 @@
 
 [![](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Ruby_on_Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white)](https://sass-lang.com)
 [![](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)](https://redux.js.org/)

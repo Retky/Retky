@@ -6,7 +6,10 @@
 - 🎓 Degree in Architecture
 - 💼 Experience in Web development, BIM, 3D Modeling, and video game assets creation
 - 💚 Love solving challenges and learning new things everyday
-- 🌱 Now learning .NET, C++, Java
+- 🌱 Now learning:
+  
+  [![](https://img.shields.io/badge/.NET-512BD4.svg?logo=.net&logoColor=white)](https://dotnet.microsoft.com/) [![](https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
 
 ## 🧰 Tech Stack
 
@@ -14,9 +17,11 @@
 
 [![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://img.shields.io/badge/Java-de8e2f.svg?logo=coffeescript&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white)](https://www.lua.org/)
 [![](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
@@ -30,6 +35,9 @@
 [![](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)](https://redux.js.org/)
 [![](https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/Sails.js-13acc2.svg?logo=sails.js&logoColor=white)](https://sailsjs.com/)
+[![](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/Koa.js-008000.svg?logo=koa&logoColor=white)](https://koajs.com/)
 
 **Testing**
 
@@ -48,6 +56,7 @@
 [![](https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![](https://img.shields.io/badge/Firebase-EB8604.svg?logo=firebase&logoColor=FDC928)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)](https://www.postman.com/)
+[![](https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![](https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white)](https://www.netlify.com/)
 

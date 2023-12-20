@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://img.shields.io/badge/Java-de8e2f.svg?logo=coffeescript&logoColor=white)](https://www.oracle.com/java/)
+[![](https://img.shields.io/badge/Java-ed8b00.svg?logo=coffeescript&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white)](https://www.lua.org/)
 [![](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)

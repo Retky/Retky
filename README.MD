@@ -49,13 +49,15 @@
 **Tools**
 
 [![](https://img.shields.io/badge/Unreal_Engine-313131.svg?logo=unreal-engine&logoColor=white)](https://unrealengine.com/)
-[![](https://img.shields.io/badge/Godot-478CBF.svg?logo=godot&logoColor=white)](https://godotengine.org/)
+[![](https://img.shields.io/badge/Godot_Engine-FFFFFF.svg?logo=godot-engine&logoColor=white)](https://godotengine.org/)
 [![](https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white)](https://unity.com/)
 [![](https://img.shields.io/badge/♥_Löve-2197C9.svg?logo=love&logoColor=white)](https://love2d.org/)
 
 [![](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)]()
 [![](https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=fff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/Firebase-EB8604.svg?logo=firebase&logoColor=FDC928)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
@@ -63,6 +65,7 @@
 [![](https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 [![](https://img.shields.io/badge/Blender-EA7600.svg?logo=blender&logoColor=white)](https://www.blender.org/)
+[![](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/)
 [![](https://img.shields.io/badge/Adobe_Illustrator-330000.svg?logo=adobe-illustrator&logoColor=FE9A00)](https://www.adobe.com/products/illustrator.html)
 [![](https://img.shields.io/badge/Adobe_Photoshop-001E36.svg?logo=adobe-photoshop&logoColor=00AAFF)](https://www.adobe.com/products/photoshop.html)
 [![](https://img.shields.io/badge/Adobe_InDesign-3E021B.svg?logo=adobe-indesign&logoColor=FD3365)](https://www.adobe.com/products/indesign.html)

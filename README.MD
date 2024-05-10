@@ -8,7 +8,7 @@
 - 💚 Love solving challenges and learning new things every day
 
 
-## 🧰 Tech Stack
+## 🧰 Tech stack I have worked with
 
 **Languages**
 
@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://img.shields.io/badge/.NET-512BD4.svg?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![](https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/Java-ed8b00.svg?logo=coffeescript&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![](https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white)](https://www.lua.org/)
@@ -32,7 +32,7 @@
 [![](https://img.shields.io/badge/Ruby_on_Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white)](https://sass-lang.com)
-[![](https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/.NET-512BD4.svg?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)](https://redux.js.org/)
 [![](https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black)](https://webpack.js.org/)
